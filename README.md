@@ -3,10 +3,10 @@ NOTES:
 
 
 
--------------------------
--                       -
--      CPU              -        inside of the cpu are a bunch of variables named register they are just super fast memory that your computer uses to do operations with
--------------------------
+-------------------------\
+-                       -\
+-      CPU              - \       inside of the cpu are a bunch of variables named register they are just super fast memory that your computer uses to do operations with
+-------------------------\
 
 The width of the registers is defined by the instruction set
 
